@@ -19,7 +19,7 @@ This project was built end-to-end: design → testing → deployment → live ex
 ## 🔗 Live Deployment
 
 - **Network:** Sepolia  
-- **Contract:** https://sepolia.etherscan.io/address/0xBD2D768B8b332151c6b58BfE0E065ae5118a7749/advanced#internaltx
+- **Contract:** https://sepolia.etherscan.io/address/0xBD2D768B8b332151c6b58BfE0E065ae5118a7749
 - All interactions (entry, VRF fulfillment, winner selection) are **public and verifiable on-chain**.
 
 ---
